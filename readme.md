@@ -10,5 +10,5 @@ hasil postman:
    ![Alt text](/images/add-user.jpg)
 4. Edit User
    ![Alt text](/images/edit-user.jpg)
-5. Delte User
+5. Delete User
    ![Alt text](/images/delete-user.jpg)
